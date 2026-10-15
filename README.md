@@ -80,7 +80,7 @@ JobTrack uses browser Local Storage to persist application data. The project cur
 - ⏰ Application deadline reminders
 - 📈 Charts and application analytics
 
-## 🚀Live Demo: **[View JobTrack](https://job-tracker-lime-tau.vercel.app/)**
+🚀 **Live Demo:** [View JobTrack](https://job-tracker-lime-tau.vercel.app/)
 
 ## 👨‍💻 Author
 
